@@ -1,27 +1,4 @@
 Server ID: Unknown
 Renew status: Failed
-Last renewal time: 2026-09-24 22:55:21
-Error: An error occurred: Message: session not created: This version of ChromeDriver only supports Chrome version 152
-Current browser version is 154.0.8037.57 with binary path C:\Users\runneradmin\.cache\selenium\chrome\win64\154.0.8037.57\chrome.exe
-Stacktrace:
-	chromedriver!GetHandleVerifier [0x7ff74b0ce035+5745]
-	chromedriver!(No symbol) [0x7ff74aff6a90]
-	chromedriver!(No symbol) [0x7ff74ae25d7d]
-	chromedriver!(No symbol) [0x7ff74ae6f7ed]
-	chromedriver!(No symbol) [0x7ff74ae6e545]
-	chromedriver!(No symbol) [0x7ff74ae6890e]
-	chromedriver!(No symbol) [0x7ff74ae63588]
-	chromedriver!(No symbol) [0x7ff74aeb7711]
-	chromedriver!(No symbol) [0x7ff74aeb6f76]
-	chromedriver!(No symbol) [0x7ff74ae72e4b]
-	chromedriver!(No symbol) [0x7ff74ae73d83]
-	chromedriver!GetHandleVerifier [0x7ff74b4e2f8b+41a69b]
-	chromedriver!GetHandleVerifier [0x7ff74b510132+447842]
-	chromedriver!GetHandleVerifier [0x7ff74b503e7e+43b58e]
-	chromedriver!GetHandleVerifier [0x7ff74b1c3f5e+fb66e]
-	chromedriver!(No symbol) [0x7ff74b00419c]
-	chromedriver!(No symbol) [0x7ff74afffdd4]
-	chromedriver!(No symbol) [0x7ff74affff64]
-	chromedriver!(No symbol) [0x7ff74afea91c]
-	KERNEL32!BaseThreadInitThunk [0x7ffe873fe8d7+17]
-	ntdll!RtlUserThreadStart [0x7ffe88f0c53c+2c]
+Last renewal time: 2026-09-25 02:56:03
+Error: An error occurred: Unable to login to dashboard
